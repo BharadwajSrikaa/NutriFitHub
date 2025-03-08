@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Alice",
+        "caloric_needs": 2188,
+        "macronutrients": {
+            "protein": "164g",
+            "carbs": "219g",
+            "fat": "73g"
+        },
+        "recommendation": "Consume 2188 kcal daily with a balanced diet including 164g protein, 219g carbs, and 73g fat."
+    },
+    {
+        "name": "Bob",
+        "caloric_needs": 3017,
+        "macronutrients": {
+            "protein": "226g",
+            "carbs": "302g",
+            "fat": "101g"
+        },
+        "recommendation": "Consume 3017 kcal daily with a balanced diet including 226g protein, 302g carbs, and 101g fat."
+    },
+    {
+        "name": "Charlie",
+        "caloric_needs": 1926,
+        "macronutrients": {
+            "protein": "144g",
+            "carbs": "193g",
+            "fat": "64g"
+        },
+        "recommendation": "Consume 1926 kcal daily with a balanced diet including 144g protein, 193g carbs, and 64g fat."
+    },
+    {
+        "name": "Diana",
+        "caloric_needs": 2221,
+        "macronutrients": {
+            "protein": "167g",
+            "carbs": "222g",
+            "fat": "74g"
+        },
+        "recommendation": "Consume 2221 kcal daily with a balanced diet including 167g protein, 222g carbs, and 74g fat."
+    },
+    {
+        "name": "Ethan",
+        "caloric_needs": 2682,
+        "macronutrients": {
+            "protein": "201g",
+            "carbs": "268g",
+            "fat": "89g"
+        },
+        "recommendation": "Consume 2682 kcal daily with a balanced diet including 201g protein, 268g carbs, and 89g fat."
+    },
+    {
+        "name": "Fiona",
+        "caloric_needs": 1692,
+        "macronutrients": {
+            "protein": "127g",
+            "carbs": "169g",
+            "fat": "56g"
+        },
+        "recommendation": "Consume 1692 kcal daily with a balanced diet including 127g protein, 169g carbs, and 56g fat."
+    },
+    {
+        "name": "George",
+        "caloric_needs": 3294,
+        "macronutrients": {
+            "protein": "247g",
+            "carbs": "329g",
+            "fat": "110g"
+        },
+        "recommendation": "Consume 3294 kcal daily with a balanced diet including 247g protein, 329g carbs, and 110g fat."
+    },
+    {
+        "name": "Hannah",
+        "caloric_needs": 1857,
+        "macronutrients": {
+            "protein": "139g",
+            "carbs": "186g",
+            "fat": "62g"
+        },
+        "recommendation": "Consume 1857 kcal daily with a balanced diet including 139g protein, 186g carbs, and 62g fat."
+    },
+    {
+        "name": "Ian",
+        "caloric_needs": 2241,
+        "macronutrients": {
+            "protein": "168g",
+            "carbs": "224g",
+            "fat": "75g"
+        },
+        "recommendation": "Consume 2241 kcal daily with a balanced diet including 168g protein, 224g carbs, and 75g fat."
+    },
+    {
+        "name": "Julia",
+        "caloric_needs": 2286,
+        "macronutrients": {
+            "protein": "171g",
+            "carbs": "229g",
+            "fat": "76g"
+        },
+        "recommendation": "Consume 2286 kcal daily with a balanced diet including 171g protein, 229g carbs, and 76g fat."
+    },
+    {
+        "name": "Kevin",
+        "caloric_needs": 2811,
+        "macronutrients": {
+            "protein": "211g",
+            "carbs": "281g",
+            "fat": "94g"
+        },
+        "recommendation": "Consume 2811 kcal daily with a balanced diet including 211g protein, 281g carbs, and 94g fat."
+    },
+    {
+        "name": "Lena",
+        "caloric_needs": 1647,
+        "macronutrients": {
+            "protein": "124g",
+            "carbs": "165g",
+            "fat": "55g"
+        },
+        "recommendation": "Consume 1647 kcal daily with a balanced diet including 124g protein, 165g carbs, and 55g fat."
+    },
+    {
+        "name": "Mike",
+        "caloric_needs": 2857,
+        "macronutrients": {
+            "protein": "214g",
+            "carbs": "286g",
+            "fat": "95g"
+        },
+        "recommendation": "Consume 2857 kcal daily with a balanced diet including 214g protein, 286g carbs, and 95g fat."
+    },
+    {
+        "name": "Nina",
+        "caloric_needs": 1957,
+        "macronutrients": {
+            "protein": "147g",
+            "carbs": "196g",
+            "fat": "65g"
+        },
+        "recommendation": "Consume 1957 kcal daily with a balanced diet including 147g protein, 196g carbs, and 65g fat."
+    },
+    {
+        "name": "Oscar",
+        "caloric_needs": 2264,
+        "macronutrients": {
+            "protein": "170g",
+            "carbs": "226g",
+            "fat": "75g"
+        },
+        "recommendation": "Consume 2264 kcal daily with a balanced diet including 170g protein, 226g carbs, and 75g fat."
+    },
+    {
+        "name": "Paula",
+        "caloric_needs": 2135,
+        "macronutrients": {
+            "protein": "160g",
+            "carbs": "214g",
+            "fat": "71g"
+        },
+        "recommendation": "Consume 2135 kcal daily with a balanced diet including 160g protein, 214g carbs, and 71g fat."
+    },
+    {
+        "name": "Quinn",
+        "caloric_needs": 2705,
+        "macronutrients": {
+            "protein": "203g",
+            "carbs": "270g",
+            "fat": "90g"
+        },
+        "recommendation": "Consume 2705 kcal daily with a balanced diet including 203g protein, 270g carbs, and 90g fat."
+    },
+    {
+        "name": "Rachel",
+        "caloric_needs": 1643,
+        "macronutrients": {
+            "protein": "123g",
+            "carbs": "164g",
+            "fat": "55g"
+        },
+        "recommendation": "Consume 1643 kcal daily with a balanced diet including 123g protein, 164g carbs, and 55g fat."
+    },
+    {
+        "name": "Steve",
+        "caloric_needs": 3128,
+        "macronutrients": {
+            "protein": "235g",
+            "carbs": "313g",
+            "fat": "104g"
+        },
+        "recommendation": "Consume 3128 kcal daily with a balanced diet including 235g protein, 313g carbs, and 104g fat."
+    },
+    {
+        "name": "Tina",
+        "caloric_needs": 2122,
+        "macronutrients": {
+            "protein": "159g",
+            "carbs": "212g",
+            "fat": "71g"
+        },
+        "recommendation": "Consume 2122 kcal daily with a balanced diet including 159g protein, 212g carbs, and 71g fat."
+    }
+]

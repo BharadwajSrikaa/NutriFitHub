@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Alice",
+        "age": 28,
+        "gender": "Female",
+        "weight": 65.0,
+        "height": 170.0,
+        "activity_level": "moderate",
+        "dietary_preferences": "Vegetarian",
+        "health_goals": "Weight loss"
+    },
+    {
+        "name": "Bob",
+        "age": 35,
+        "gender": "Male",
+        "weight": 80.0,
+        "height": 175.0,
+        "activity_level": "active",
+        "dietary_preferences": "None",
+        "health_goals": "Muscle gain"
+    },
+    {
+        "name": "Charlie",
+        "age": 40,
+        "gender": "Male",
+        "weight": 75.0,
+        "height": 168.0,
+        "activity_level": "sedentary",
+        "dietary_preferences": "Keto",
+        "health_goals": "Maintenance"
+    },
+    {
+        "name": "Diana",
+        "age": 24,
+        "gender": "Female",
+        "weight": 55.0,
+        "height": 160.0,
+        "activity_level": "active",
+        "dietary_preferences": "Vegan",
+        "health_goals": "Weight gain"
+    },
+    {
+        "name": "Ethan",
+        "age": 50,
+        "gender": "Male",
+        "weight": 85.0,
+        "height": 180.0,
+        "activity_level": "moderate",
+        "dietary_preferences": "Paleo",
+        "health_goals": "General health"
+    },
+    {
+        "name": "Fiona",
+        "age": 32,
+        "gender": "Female",
+        "weight": 70.0,
+        "height": 165.0,
+        "activity_level": "sedentary",
+        "dietary_preferences": "None",
+        "health_goals": "Weight loss"
+    },
+    {
+        "name": "George",
+        "age": 27,
+        "gender": "Male",
+        "weight": 90.0,
+        "height": 178.0,
+        "activity_level": "active",
+        "dietary_preferences": "None",
+        "health_goals": "Muscle gain"
+    },
+    {
+        "name": "Hannah",
+        "age": 22,
+        "gender": "Female",
+        "weight": 50.0,
+        "height": 155.0,
+        "activity_level": "moderate",
+        "dietary_preferences": "Vegetarian",
+        "health_goals": "Weight gain"
+    },
+    {
+        "name": "Ian",
+        "age": 45,
+        "gender": "Male",
+        "weight": 95.0,
+        "height": 182.0,
+        "activity_level": "sedentary",
+        "dietary_preferences": "Low-carb",
+        "health_goals": "Diabetes management"
+    },
+    {
+        "name": "Julia",
+        "age": 29,
+        "gender": "Female",
+        "weight": 60.0,
+        "height": 162.0,
+        "activity_level": "active",
+        "dietary_preferences": "Gluten-free",
+        "health_goals": "Weight loss"
+    },
+    {
+        "name": "Kevin",
+        "age": 33,
+        "gender": "Male",
+        "weight": 88.0,
+        "height": 175.0,
+        "activity_level": "moderate",
+        "dietary_preferences": "None",
+        "health_goals": "Muscle gain"
+    },
+    {
+        "name": "Lena",
+        "age": 38,
+        "gender": "Female",
+        "weight": 68.0,
+        "height": 167.0,
+        "activity_level": "sedentary",
+        "dietary_preferences": "None",
+        "health_goals": "General health"
+    },
+    {
+        "name": "Mike",
+        "age": 41,
+        "gender": "Male",
+        "weight": 77.0,
+        "height": 170.0,
+        "activity_level": "active",
+        "dietary_preferences": "None",
+        "health_goals": "Heart health"
+    },
+    {
+        "name": "Nina",
+        "age": 30,
+        "gender": "Female",
+        "weight": 58.0,
+        "height": 159.0,
+        "activity_level": "moderate",
+        "dietary_preferences": "Vegetarian",
+        "health_goals": "Weight loss"
+    },
+    {
+        "name": "Oscar",
+        "age": 55,
+        "gender": "Male",
+        "weight": 100.0,
+        "height": 185.0,
+        "activity_level": "sedentary",
+        "dietary_preferences": "Keto",
+        "health_goals": "Weight loss"
+    },
+    {
+        "name": "Paula",
+        "age": 26,
+        "gender": "Female",
+        "weight": 53.0,
+        "height": 157.0,
+        "activity_level": "active",
+        "dietary_preferences": "Vegan",
+        "health_goals": "Weight gain"
+    },
+    {
+        "name": "Quinn",
+        "age": 36,
+        "gender": "Male",
+        "weight": 82.0,
+        "height": 176.0,
+        "activity_level": "moderate",
+        "dietary_preferences": "Low-fat",
+        "health_goals": "Cholesterol control"
+    },
+    {
+        "name": "Rachel",
+        "age": 47,
+        "gender": "Female",
+        "weight": 74.0,
+        "height": 164.0,
+        "activity_level": "sedentary",
+        "dietary_preferences": "None",
+        "health_goals": "General wellness"
+    },
+    {
+        "name": "Steve",
+        "age": 31,
+        "gender": "Male",
+        "weight": 85.0,
+        "height": 174.0,
+        "activity_level": "active",
+        "dietary_preferences": "None",
+        "health_goals": "Muscle gain"
+    },
+    {
+        "name": "Tina",
+        "age": 42,
+        "gender": "Female",
+        "weight": 69.0,
+        "height": 168.0,
+        "activity_level": "moderate",
+        "dietary_preferences": "None",
+        "health_goals": "Weight loss"
+    }
+]
